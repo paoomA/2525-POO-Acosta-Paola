@@ -7,7 +7,7 @@
     },
     "P002": {
         "id": "P002",
-        "nombre": "Pantal\u00f3n",
+        "nombre": "Pantalón",
         "cantidad": 10,
         "precio": 40.0
     },
@@ -37,7 +37,7 @@
     },
     "P007": {
         "id": "P007",
-        "nombre": "Cintur\u00f3n",
+        "nombre": "Cinturón",
         "cantidad": 18,
         "precio": 22.0
     }
