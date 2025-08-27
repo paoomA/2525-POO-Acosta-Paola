@@ -1,0 +1,50 @@
+[
+    {
+        "id": "P001",
+        "nombre": "Camisa",
+        "cantidad": 20,
+        "precio": 15.0
+    },
+    {
+        "id": "P002",
+        "nombre": "Chaqueta",
+        "cantidad": 15,
+        "precio": 45.0
+    },
+    {
+        "id": "P003",
+        "nombre": "Pantalon",
+        "cantidad": 5,
+        "precio": 25.0
+    },
+    {
+        "id": "P004",
+        "nombre": "Falda",
+        "cantidad": 12,
+        "precio": 24.5
+    },
+    {
+        "id": "P005",
+        "nombre": "Playera",
+        "cantidad": 30,
+        "precio": 11.75
+    },
+    {
+        "id": "P006",
+        "nombre": "Vestido",
+        "cantidad": 5,
+        "precio": 39.9
+    },
+    {
+        "id": "P007",
+        "nombre": "Sudadera Gris",
+        "cantidad": 18,
+        "precio": 27.75
+    },
+    {
+        "id": "P008",
+        "nombre": "Correa",
+        "cantidad": 6,
+        "precio": 12.4
+    }
+]
