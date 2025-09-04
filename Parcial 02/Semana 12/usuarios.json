@@ -1,0 +1,31 @@
+[
+    {
+        "nombre": "Dayana Garcia",
+        "id_usuario": "user01",
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Edison Monar",
+        "id_usuario": "user02",
+        "libros_prestados": [
+            "L101"
+        ]
+    },
+    {
+        "nombre": "Tatiana Reina",
+        "id_usuario": "user03",
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Marlon Guevara",
+        "id_usuario": "user04",
+        "libros_prestados": [
+            "L103"
+        ]
+    },
+    {
+        "nombre": "Lady Gavilanes",
+        "id_usuario": "user05",
+        "libros_prestados": []
+    }
+]

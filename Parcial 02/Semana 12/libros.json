@@ -1,0 +1,32 @@
+[
+    {
+        "titulo": "Los Detectives Salvajes",
+        "autor": "Roberto Bolaño",
+        "categoria": "Novela",
+        "isbn": "L103"
+    },
+    {
+        "titulo": "El Alquimista",
+        "autor": "Paulo Coelho",
+        "categoria": "Ficcion",
+        "isbn": "L100"
+    },
+    {
+        "titulo": "La Sombra del Viento",
+        "autor": "Carlos Ruiz",
+        "categoria": "Misterioso ",
+        "isbn": "L101"
+    },
+    {
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "categoria": "Clasico",
+        "isbn": "L104"
+    },
+    {
+        "titulo": "Sol",
+        "autor": "Ana Leon",
+        "categoria": "Ficcion",
+        "isbn": "L105"
+    }
+]
