@@ -1,0 +1,27 @@
+[
+    {
+        "descripcion": "Hacer el proyecto de Programacion",
+        "completada": true,
+        "fecha_hora": "2025-09-24 18:00"
+    },
+    {
+        "descripcion": "Ir al gym con mi hermana",
+        "completada": true,
+        "fecha_hora": "2025-09-26 10:00"
+    },
+    {
+        "descripcion": "Ir a comprar pan",
+        "completada": true,
+        "fecha_hora": "2025-09-30 07:00"
+    },
+    {
+        "descripcion": "Hacer la merienda con mi hermena",
+        "completada": false,
+        "fecha_hora": "2025-09-30 11:00"
+    },
+    {
+        "descripcion": "Ir a visitar a mi abuelo",
+        "completada": false,
+        "fecha_hora": "2025-09-30 06:00"
+    }
+]
